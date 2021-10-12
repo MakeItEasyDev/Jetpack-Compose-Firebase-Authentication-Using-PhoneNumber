@@ -1,3 +1,3 @@
-# Jetpack-Compose-OTP-Screen-Validation
+# Jetpack-Compose-Firebase-Authentication-Using-PhoneNumber
 
-YouTube link -> https://youtu.be/TN6IK9GSbOA
+YouTube link -> https://youtu.be/Nd_enMkYm94
