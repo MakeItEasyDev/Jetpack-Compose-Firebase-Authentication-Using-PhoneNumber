@@ -1,3 +1,3 @@
 # Jetpack-Compose-Firebase-Authentication-Using-PhoneNumber
 
-YouTube link -> https://youtu.be/Nd_enMkYm94
+YouTube link -> https://www.youtube.com/watch?v=0MLJ47e-144
